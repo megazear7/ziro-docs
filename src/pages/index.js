@@ -23,6 +23,12 @@ export default context => html`
           <p>A simple state management system</p>
         </a>
       </li>
+      <li>
+      <a href="https://ziro-state.alexlockhart.me">
+        <h5>Ziro CLI</h5>
+        <p>A command line tool for the Ziro projects</p>
+      </a>
+    </li>
     </ul>
   </section>
 `;
