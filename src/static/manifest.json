@@ -1,7 +1,7 @@
 {
-  "name": "Ziro App",
-  "short_name": "ZiroApp",
-  "description": "An ultra opinionated web app development framework.",
+  "name": "Ziro",
+  "short_name": "Ziro",
+  "description": "Documentation for the suite of Ziro projects",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#ff3333",
