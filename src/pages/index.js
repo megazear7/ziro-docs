@@ -8,7 +8,7 @@ export default context => html`
       <li>
         <a href="https://ziro-app.alexlockhart.me">
           <h5>Ziro App</h5>
-          <p>A single page progressive web builder toolkit</p>
+          <p>A single page progressive web app builder</p>
         </a>
       </li>
       <li>
